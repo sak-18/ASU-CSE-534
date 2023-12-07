@@ -6,7 +6,6 @@ address. A P4-based working implementation on FABRIC is pro-vided in this projec
 Some challenges in scaling this implementation are discussed with possible future extensions. Code snippets for the implementation
 are provided for reproducibility.
 
-Final Report: https://www.overleaf.com/read/tsnwnfmnhxpf#3f4893
 
 Instructions:
 The experiment consists of two topologies - small and large.
